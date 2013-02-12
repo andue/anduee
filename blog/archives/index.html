@@ -9,7 +9,7 @@
   <meta name="author" content="anduee">
 
   
-  <meta name="description" content=" Blog Archive Recent Posts ">
+  <meta name="description" content=" Blog Archive Recent Posts Latest Tweets Status updating... $.domReady(function(){ getTwitterFeed("andueeee", 2, false); }); Follow @andueeee ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -88,6 +88,22 @@
   </ul>
 </section>
 
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("andueeee", 2, false);
+    });
+  </script>
+  <script src="/anduee/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/andueeee" class="twitter-follow-button" data-show-count="false">Follow @andueeee</a>
+  
+</section>
 
 
 
