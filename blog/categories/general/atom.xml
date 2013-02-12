@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[anduee's octopress]]></title>
-  <link href="http://andue.github.com/anduee/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | anduee's octopress]]></title>
+  <link href="http://andue.github.com/anduee/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://andue.github.com/anduee/"/>
   <updated>2013-02-12T19:26:53+01:00</updated>
   <id>http://andue.github.com/anduee/</id>
